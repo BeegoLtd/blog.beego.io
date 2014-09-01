@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://bestmike007.com
-title: "Mike's Blog"
-subtitle: "Mike's personal blog."
-author: Mike He
+url: http://blog.beego.io
+title: "必果"
+subtitle: "言必行，行必果"
+author: 'Eric & Mike'
 simple_search: https://www.google.com/search
-description:
+description: "言必行，行必果"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
