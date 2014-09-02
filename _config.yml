@@ -4,7 +4,7 @@
 
 url: http://blog.beego.io
 title: "必果"
-subtitle: "言必行，行必果"
+subtitle: "言必行，行必果 - BeeGo.io"
 author: 'Eric & Mike'
 simple_search: https://www.google.com/search
 description: "言必行，行必果"
@@ -71,7 +71,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
