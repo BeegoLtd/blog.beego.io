@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[必果]]></title>
+  <title><![CDATA[必果BeeGo]]></title>
   <link href="http://blog.beego.io/atom.xml" rel="self"/>
   <link href="http://blog.beego.io/"/>
-  <updated>2014-09-01T16:33:49+08:00</updated>
+  <updated>2014-09-02T19:10:43+08:00</updated>
   <id>http://blog.beego.io/</id>
   <author>
     <name><![CDATA[Eric & Mike]]></name>
