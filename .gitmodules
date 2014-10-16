@@ -1,0 +1,3 @@
+[submodule "beeguo-octopress"]
+	path = .themes/beeguo-octopress
+	url = https://github.com/beeguo/beeguo-octopress.git
